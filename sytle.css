@@ -1,0 +1,54 @@
+body{
+    background-image: url("data:image/jpeg;base64,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");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(123, 53, 169);
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    
+}
+#info{
+    font-size: 40px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+img{
+    border-radius: 50%;
+    width: 30%;
+    
+}
+.image-container{
+
+    text-align: center ;
+}
+
+.moving-text {
+    position: relative;
+    white-space: nowrap;
+    width: 100%;
+    animation: moveLeftToRight 10s linear infinite;
+  }
+  
+  @keyframes moveLeftToRight {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+#homeinfo{
+    text-align:center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
